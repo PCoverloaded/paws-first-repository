@@ -1,1 +1,1 @@
-# paws-first-repository
+# paws-first
